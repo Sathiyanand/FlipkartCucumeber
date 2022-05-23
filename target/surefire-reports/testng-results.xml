@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="274575" started-at="2022-04-05T22:36:11 CDT" finished-at="2022-04-05T22:40:46 CDT">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Verify Search Functionality" duration-ms="274575" started-at="2022-04-05T22:36:11 CDT" finished-at="2022-04-05T22:40:46 CDT">
+      <class name="cucumberOptions.TestRunner">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="setUpClass" is-config="true" duration-ms="529" started-at="2022-04-05T22:36:11 CDT" finished-at="2022-04-05T22:36:12 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6d6f6860]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="runScenario" duration-ms="99007" started-at="2022-04-05T22:36:12 CDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-05T22:37:51 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate Cart Count increase in product listing page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[AddToCart Count Update]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="runScenario" duration-ms="78768" started-at="2022-04-05T22:37:51 CDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-05T22:39:10 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate Cart Count decreased in product listing page when user remove product from cart"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[DeleteCart Count Update]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="runScenario" duration-ms="16500" started-at="2022-04-05T22:39:10 CDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-05T22:39:26 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate SearchProduct functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[SearchProduct functionality]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="runScenario" duration-ms="57690" started-at="2022-04-05T22:39:26 CDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-05T22:40:24 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Get SellerRating from Product Description Page PopUp"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Get SellerRating]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="runScenario" duration-ms="21982" started-at="2022-04-05T22:40:24 CDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-05T22:40:46 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validate ViewAll functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ViewAll functionality]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestRunner@661972b0]" name="tearDownClass" is-config="true" duration-ms="41" started-at="2022-04-05T22:40:46 CDT" finished-at="2022-04-05T22:40:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestRunner -->
+    </test> <!-- Verify Search Functionality -->
+  </suite> <!-- Suite -->
+</testng-results>

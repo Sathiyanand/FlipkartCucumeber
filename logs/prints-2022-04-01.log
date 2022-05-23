@@ -1,0 +1,106 @@
+22:46:11.179 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+22:57:16.553 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+23:00:28.255 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+23:01:22.545 [main] INFO  Assesment.FlipKart.SearchProductTest - Url Launched Successfully
+23:01:22.622 [main] INFO  Assesment.FlipKart.SearchProductTest - Search Product Test Start
+23:01:25.440 [main] INFO  Assesment.FlipKart.SearchProductTest - Search Successful. User Navigated to Product Listing Page
+23:01:26.038 [main] INFO  Assesment.FlipKart.SearchProductTest - Browser Closed Successfully
+23:05:05.742 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+23:08:04.329 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+23:08:07.178 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Search Successful. User Navigated to Product Listing Page
+23:08:08.388 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+23:09:37.657 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+23:23:13.213 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+23:23:17.103 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+23:23:21.397 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Seller Rating is4.8
+23:23:22.943 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+23:27:22.425 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Url Launched Successfully
+23:27:22.519 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Verify Cart Count Test Start
+23:27:26.088 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Product Selected Successfully
+23:27:28.168 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Product Added to Cart
+23:27:33.631 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Browser Closed Successfully
+23:38:40.734 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Url Launched Successfully
+23:38:40.805 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Verify Cart Count Test Start
+23:38:44.334 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Product Selected Successfully
+23:38:46.802 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Product Added to Cart
+23:39:01.465 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Browser Closed Successfully
+23:40:10.358 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Url Launched Successfully
+23:40:10.423 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Verify Cart Count Test Start
+23:40:13.536 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Product Selected Successfully
+23:40:16.136 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Product Added to Cart
+23:40:21.815 [main] INFO  Assesment.FlipKart.AddToCartPLPTest - Browser Closed Successfully
+23:52:34.195 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+23:52:37.439 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+00:01:32.257 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+00:01:36.062 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+00:01:39.075 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+00:05:59.201 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+00:06:02.863 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+00:06:05.259 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+00:06:09.015 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count Increased to1
+00:06:10.269 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+16:17:10.253 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Url Launched Successfully
+16:17:13.553 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - First Product Selected
+16:17:19.300 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Cart Count After Adding First Product1
+16:17:19.722 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Second Product Selected
+16:17:25.329 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Cart Count After Adding Second Product2
+16:17:25.607 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Second Product Removed from Cart
+16:17:30.591 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Cart Count After Removing Second Product1
+16:17:30.599 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Cart Count Decreased Successfully
+16:17:31.963 [main] INFO  Assesment.FlipKart.RemoveFrmCartPLPTest - Browser Closed Successfully
+16:50:00.093 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+16:50:03.754 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+16:50:06.207 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:19:21.357 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+17:19:25.120 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:19:27.272 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:19:31.589 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Adding First Product1
+17:19:32.049 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:28:41.227 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+17:28:44.339 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:28:46.208 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:33:53.394 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+17:33:56.573 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:33:58.951 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:34:02.857 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Adding First Product1
+17:34:03.475 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:34:05.757 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:34:09.410 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Adding Second Product2
+17:34:09.914 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Second Product Removed from Cart
+17:34:12.106 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Updated Cart count After Removing product in My cart Page1
+17:34:14.043 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Removing Second Product in Product listing page1
+17:34:14.047 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count Decreased Successfully
+17:34:15.328 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+17:43:17.950 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+17:43:22.056 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:43:24.920 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:43:29.270 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Adding First Product1
+17:43:29.865 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:43:33.497 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:43:38.120 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Adding Second Product2
+17:43:38.450 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Second Product Removed from Cart
+17:43:40.503 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Updated Cart count After Removing product in My cart Page1
+17:43:42.778 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Removing Second Product in Product listing page1
+17:43:42.784 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count Decreased Successfully
+17:43:44.160 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+17:52:17.110 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+17:52:20.250 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:52:22.423 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:52:26.353 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count Increased to1
+17:52:27.905 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+17:52:37.600 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+17:52:40.958 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:52:43.287 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:52:47.363 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Adding First Product1
+17:52:48.018 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Selected Successfully
+17:52:50.470 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Product Added to Cart
+17:52:54.276 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Adding Second Product2
+17:52:54.634 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Second Product Removed from Cart
+17:52:56.747 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Updated Cart count After Removing product in My cart Page1
+17:52:59.048 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count After Removing Second Product in Product listing page1
+17:52:59.048 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Cart Count Decreased Successfully
+17:53:00.391 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+17:53:10.779 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully
+17:53:13.975 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Search Successful. User Navigated to Product Listing Page
+17:53:15.296 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Browser Closed Successfully
+17:53:23.276 [main] INFO  Assesment.FlipKart.ViewAllBtnTest - Url Launched Successfully

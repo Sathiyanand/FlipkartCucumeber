@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" >
+	<listeners>
+		<listener class-name="Assesment.FlipKart.Listeners"/>
+	</listeners>
+	
+  <test name="Verify Search Functionality">
+    <classes>
+   <class name="Assesment.FlipKart.SearchProductTest"/>
+</classes>
+</test>
+
+ <test name="Verify Add to Cart Functionality">
+    <classes>
+      <class name="Assesment.FlipKart.AddToCartPLPTest"/>
+   </classes>
+</test>
+
+ <test name="Verify Cart Count after removing Products">
+    <classes>
+      <class name="Assesment.FlipKart.RemoveFrmCartPLPTest"/>
+ </classes>
+</test>
+
+<test name="Verify Seller Rating in PDP">
+   <classes>
+        <class name="Assesment.FlipKart.GetSellerRatingTest"/>
+  </classes>
+ </test> 
+
+<test name="Verify View All Button Functionality">
+    <classes>      
+      <class name="Assesment.FlipKart.ViewAllBtnTest"/>
+   </classes>
+  </test> 
+  
+</suite> 
